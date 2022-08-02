@@ -1,0 +1,2 @@
+# exercicio em linguagem C
+ 
