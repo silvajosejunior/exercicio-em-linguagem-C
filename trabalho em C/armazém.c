@@ -126,5 +126,5 @@ int main(){
   printf("O produto com menor estoque eh: Produto %d\n\n",menor_estoque_idx+1 );
   custo_por_armazem(armazens,preco_produto);
 	return 0 ;
-  // esse codigo rendeu muita discurssão
+  
 }
