@@ -49,5 +49,5 @@ Este é um script em C que realiza a gestão de estoque de produtos em armazéns
 
 ## Licença
 
-- Este script está licenciado sob a [Sua Licença] - consulte o arquivo `LICENSE` para obter detalhes.
+- Este script está licenciado sob a [MIT] - consulte o arquivo `LICENSE` para obter detalhes.
 
